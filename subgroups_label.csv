@@ -1,0 +1,342 @@
+,restaurant_number,mean_score
+Sandwiches,572,3.53
+Salad,213,3.49
+Restaurants,3512,3.5
+Burgers,329,2.98
+Comfort Food,40,3.52
+Nightlife,686,3.53
+Bars,670,3.53
+Polish,9,4.22
+Modern European,8,3.94
+Vegan,41,4.13
+Japanese,93,3.52
+Sushi Bars,100,3.66
+American (Traditional),648,3.42
+Beer,127,3.8
+Wine & Spirits,127,3.8
+Food,1595,3.74
+Caribbean,14,4.0
+Fast Food,328,2.83
+Pizza,690,3.43
+American (New),480,3.5
+Food Delivery Services,56,3.6
+Delis,135,3.91
+Cafes,162,4.0
+Buffets,35,2.97
+Bakeries,180,3.86
+Event Planning & Services,201,3.82
+Caterers,144,3.81
+Desserts,167,3.93
+Ice Cream & Frozen Yogurt,162,3.91
+Lounges,55,3.49
+Cocktail Bars,82,3.85
+Italian,412,3.48
+Hot Dogs,56,3.55
+Grocery,190,3.51
+Bagels,63,3.06
+Donuts,62,3.4
+Coffee & Tea,382,3.64
+Breakfast & Brunch,333,3.55
+Convenience Stores,101,3.35
+Automotive,45,3.28
+Gas Stations,41,3.26
+Education,4,3.75
+Cheese Tasting Classes,1,4.5
+Tasting Classes,1,4.5
+Specialty Food,179,4.05
+Cheese Shops,4,4.62
+Chicken Wings,191,3.14
+Soup,69,3.39
+Food Stands,10,3.75
+Vegetarian,62,3.94
+Gluten-Free,46,3.75
+Pubs,90,3.62
+Mexican,175,3.39
+Coffee Roasteries,17,4.0
+Sports Bars,114,3.27
+Seafood,145,3.52
+Fish & Chips,11,3.55
+Greek,57,3.8
+Wine Bars,60,3.66
+Beer Gardens,5,3.8
+Noodles,30,3.57
+Ramen,11,3.5
+Tex-Mex,38,2.91
+Local Flavor,34,3.97
+Custom Cakes,17,3.94
+Fruits & Veggies,17,3.97
+Restaurant Supplies,1,3.5
+Wholesalers,1,3.5
+Professional Services,2,4.25
+Arts & Entertainment,61,3.78
+Wine Tasting Room,8,4.44
+Wineries,16,4.25
+Mediterranean,85,3.94
+Steakhouses,87,3.24
+Juice Bars & Smoothies,73,4.14
+Diners,156,3.49
+Flowers & Gifts,32,3.84
+Gift Shops,13,4.08
+Shopping,146,3.59
+Cooking Classes,3,4.17
+Arts & Crafts,6,4.5
+Chinese,227,3.44
+Thai,77,3.86
+Bistros,4,3.75
+Books,7,2.86
+Mags,7,2.86
+Music & Video,7,2.86
+Videos & Video Game Rental,6,2.58
+International Grocery,13,4.15
+Drugstores,65,3.13
+Beer Bar,50,3.64
+Breweries,45,4.18
+Jazz & Blues,3,3.67
+Halal,11,3.73
+Ethnic Food,30,4.08
+Middle Eastern,45,4.08
+Candy Stores,22,4.34
+Hotels & Travel,23,3.39
+Bed & Breakfast,8,3.0
+Turkish,16,4.12
+Florists,18,3.61
+Hot Pot,3,4.0
+Soul Food,30,3.88
+Cupcakes,21,4.12
+Tapas Bars,12,3.42
+French,29,4.03
+Creperies,11,3.95
+Vietnamese,15,3.63
+Asian Fusion,76,3.67
+Barbeque,89,3.65
+Bartenders,1,4.5
+Taiwanese,12,3.67
+Chicken Shop,20,3.2
+Food Trucks,64,4.12
+Dive Bars,35,3.59
+Venues & Event Spaces,39,3.86
+Filipino,3,4.17
+Smokehouse,6,3.75
+Seafood Markets,6,3.5
+Kitchen & Bath,4,4.38
+Home & Garden,13,4.12
+Cuban,4,3.75
+Antiques,3,3.83
+Southern,21,3.5
+Shaved Ice,16,3.97
+Pakistani,17,3.71
+Indian,49,3.73
+Food Court,3,3.5
+Latin American,22,4.09
+Peruvian,4,3.75
+Szechuan,12,3.71
+Beauty & Spas,16,3.59
+Organic Stores,7,4.0
+Butcher,11,4.05
+Meat Shops,21,4.21
+Kosher,4,3.88
+Imported Food,13,4.08
+African,3,3.5
+Distilleries,10,4.75
+Tours,4,4.38
+Health & Medical,5,4.0
+Pharmacy,1,2.5
+Korean,22,3.82
+Health Markets,11,3.77
+Irish,8,3.38
+Tea Rooms,22,4.27
+Cantonese,4,3.12
+Bubble Tea,10,3.7
+Adult Entertainment,1,3.0
+Team Building Activities,1,3.0
+Active Life,13,3.58
+Wraps,12,4.0
+Golf,2,3.75
+Stadiums & Arenas,1,3.0
+Spanish,7,3.43
+Music Venues,21,3.64
+Karaoke,6,3.75
+Acai Bowls,2,4.25
+Tapas/Small Plates,16,3.84
+Hookah Bars,7,3.57
+Pasta Shops,13,3.42
+Syrian,1,4.5
+Cheesesteaks,11,3.55
+Electronics,8,2.5
+Department Stores,12,2.79
+Fashion,14,3.04
+Mobile Phones,7,2.5
+Tacos,18,3.92
+New Mexican Cuisine,2,4.0
+Cosmetics & Beauty Supply,12,3.58
+Chocolatiers & Shops,20,4.32
+Beer Tours,1,4.0
+Tobacco Shops,6,4.17
+Brazilian,3,4.17
+Waffles,5,4.1
+Bangladeshi,1,4.0
+Pretzels,6,4.33
+German,9,4.11
+Dim Sum,5,3.3
+Hungarian,2,4.25
+Museums,1,3.5
+Botanical Gardens,2,3.5
+Argentine,3,4.5
+Lebanese,7,3.79
+Toy Stores,2,3.5
+CSA,1,3.5
+Street Vendors,19,4.42
+Egyptian,2,4.25
+Venezuelan,2,4.25
+Patisserie/Cake Shop,8,4.25
+Performing Arts,1,3.0
+Arcades,7,3.07
+Kids Activities,3,4.0
+Comedy Clubs,1,3.5
+Piano Bars,1,3.5
+Gelato,5,4.3
+Champagne Bars,2,3.5
+Gardeners,1,4.5
+Home Services,4,4.25
+Nurseries & Gardening,6,3.92
+Landscaping,1,4.5
+British,3,4.33
+Party & Event Planning,8,3.38
+Ethiopian,2,4.0
+Poutineries,2,3.5
+Pan Asian,5,3.8
+Eatertainment,1,2.5
+Home Decor,4,3.62
+Brewpubs,6,4.17
+Internet Cafes,9,4.44
+Specialty Schools,2,3.5
+Cooking Schools,2,3.5
+Art Schools,1,2.5
+Colleges & Universities,2,3.0
+Hotels,10,3.45
+Post Offices,1,3.5
+Public Services & Government,1,3.5
+Persian/Iranian,1,2.0
+Cafeteria,4,3.62
+Pets,2,4.0
+Pet Groomers,1,3.5
+Car Wash,2,3.5
+Pet Services,1,3.5
+Women's Clothing,1,3.5
+Men's Clothing,1,3.5
+Cajun/Creole,10,4.0
+Himalayan/Nepalese,2,3.75
+Speakeasies,3,3.5
+Gastropubs,29,3.74
+Discount Store,12,2.88
+Local Services,6,3.92
+Community Service/Non-Profit,2,3.75
+Food Banks,1,4.5
+Farmers Market,18,4.03
+Popcorn Shops,4,3.5
+Cambodian,3,4.17
+Dance Clubs,8,3.44
+Gay Bars,2,3.75
+Hair Salons,1,3.5
+Belgian,8,3.56
+Casinos,1,3.0
+Art Galleries,4,4.75
+Whiskey Bars,9,4.11
+Poke,5,4.1
+Herbs & Spices,5,4.4
+Religious Organizations,3,4.0
+Kombucha,1,5.0
+Izakaya,2,4.0
+Pop-Up Restaurants,1,4.5
+Delicatessen,2,3.75
+Fondue,1,4.0
+Honey,1,4.5
+Do-It-Yourself Food,6,3.67
+Teppanyaki,2,4.25
+Nutritionists,2,4.25
+Vitamins & Supplements,2,4.25
+Hawaiian,3,4.17
+Brasseries,3,3.5
+Moroccan,4,4.12
+Social Clubs,2,4.25
+Vape Shops,2,4.0
+Printing Services,1,4.0
+Basque,3,3.17
+Photography Stores & Services,11,3.36
+Tiki Bars,2,3.25
+Beverage Store,3,4.0
+Animal Shelters,1,4.5
+Uzbek,1,4.0
+Russian,2,4.25
+Portuguese,4,4.0
+Mongolian,2,4.25
+Thrift Stores,1,3.0
+Boat Dealers,1,3.5
+Outdoor Gear,1,3.5
+Hunting & Fishing Supplies,1,3.5
+Sporting Goods,1,3.5
+Gyms,1,4.0
+Sports Clubs,2,3.75
+Fitness & Instruction,2,4.25
+Australian,1,2.0
+Indoor Playcentre,1,5.0
+Singaporean,1,3.0
+Malaysian,1,3.0
+Burmese,3,4.17
+Cideries,2,4.5
+Floral Designers,1,4.5
+Laser Tag,2,3.0
+Rock Climbing,1,3.0
+Bowling,3,2.83
+Towing,1,3.0
+Ethnic Grocery,1,4.0
+Live/Raw Food,2,4.25
+Coffeeshops,1,4.5
+Festivals,2,4.5
+Laotian,1,3.5
+Nail Salons,1,3.5
+Dry Cleaning & Laundry,1,4.5
+Bookstores,1,4.5
+Armenian,1,4.0
+Wholesale Stores,1,5.0
+Pool Halls,2,4.25
+Amusement Parks,2,2.75
+Playgrounds,1,2.5
+Indonesian,1,4.0
+Car Dealers,1,4.0
+Real Estate Agents,1,4.0
+Real Estate,1,4.0
+Cards & Stationery,1,5.0
+Shopping Centers,2,3.25
+Wedding Planning,3,4.0
+Empanadas,2,4.0
+Colombian,1,4.5
+Brewing Supplies,1,4.5
+Tattoo,1,4.5
+Piercing,1,4.5
+Olive Oil,3,4.67
+Farms,1,4.5
+Pick Your Own Farms,1,4.5
+Attraction Farms,1,4.5
+Personal Chefs,1,4.5
+Leisure Centers,1,3.0
+Personal Shopping,2,4.5
+Wine Tours,1,4.0
+Parks,1,4.0
+Resorts,1,2.5
+Falafel,2,4.5
+Macarons,1,4.0
+Doctors,1,4.5
+Soccer,1,3.5
+Sicilian,1,4.5
+Irish Pub,1,4.0
+Hostels,1,2.0
+Interior Design,1,5.0
+Web Design,1,5.0
+Advertising,1,5.0
+Ticket Sales,1,4.0
+Party Supplies,1,4.5
+Yoga,1,4.5
+Airports,1,3.5
+Electricians,1,3.5
+Iberian,1,4.5
